@@ -10,6 +10,6 @@ public class inputData {
             Date date =df.parse(sc.nextLine());
             System.out.println("Date: "+df.format(date));
         }catch(Exception e){}
-        System.out.println("Sua lai mot ty");
+        System.out.println("Sua lai mot ty, ahihi co y de click");
     }
 }
