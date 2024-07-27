@@ -12,6 +12,7 @@ public class inputData {
         }catch(Exception e){}
         System.out.println("kkkkk");
         System.out.println("kkkhhhhkk");
+        System.out.println("kkkhhhhkkthinh");
     }
 
 }
